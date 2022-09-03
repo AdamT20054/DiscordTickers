@@ -7,9 +7,13 @@
     <br/>
     <br/>
     <a href="https://github.com/AdamT20054/DiscordTickers#invite-bots"><strong>Bot invites! »</strong></a>
+    <br/>
     <a href="https://github.com/AdamT20054/DiscordTickers#donate"><strong>Support our bots! »</strong></a>
+    <br/>
     <a href="https://github.com/AdamT20054/DiscordTickers#common-issues"><strong>Explore common issues! »</strong></a>
+    <br/>
     <a href="https://github.com/AdamT20054/DiscordTickers#colour-changing-roles-and-nicknames"><strong>Colour chaning roles and nicknames! »</strong></a>
+    <br/>
     <a href="https://discord.gg/YbtckEktmn"><strong>Join our Support server! »</strong></a>
     <br/>
     <br/>
