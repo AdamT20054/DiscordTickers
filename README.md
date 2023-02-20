@@ -96,7 +96,7 @@ You can learn more about our private services (and private tickers) through my P
 ### Patreon, KoFi and Paypal
 Paypal: https://www.paypal.com/paypalme/adamT20054
 Patreon: https://www.patreon.com/Adam20054
-KoFi: Ko-fi.com/adam20054 
+KoFi: https://www.Ko-fi.com/adam20054 
 
 ### Cryptocurrency
 Bitcoin:
