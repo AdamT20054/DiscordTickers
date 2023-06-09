@@ -100,31 +100,31 @@ KoFi: https://www.Ko-fi.com/adam20054
 
 ### Cryptocurrency
 Bitcoin:
-bc1q93vhes7wv5ln9dz8se70u3dj5kpkv6jzsy2u39
+`bc1q93vhes7wv5ln9dz8se70u3dj5kpkv6jzsy2u39`
 
 Ethereum and BinanceCoin:
-0xB419EdD77c6B64AfC97d7606d1C5b776e40027Ea
+`0xB419EdD77c6B64AfC97d7606d1C5b776e40027Ea`
 
 Solana:
-H1JKvvk4YC6peqiTQYao2zfjZxj4XpzGRUV72gKjYKnq
+`H1JKvvk4YC6peqiTQYao2zfjZxj4XpzGRUV72gKjYKnq`
 
 Litecoin (Segwit):
-MRoZBckYfmowsuUSjWVWEZbvVFRLWHngRU
+`MRoZBckYfmowsuUSjWVWEZbvVFRLWHngRU`
 
 Cardano:
-addr1q8mswe8hsmp3hh2ga59gtzsqrdsa7xm497faz3n6jgtlfzl3knkjuae0jq9z4f6as904qf70kcv722u6aj3tg23pnsjqd7sdzl
+`addr1q8mswe8hsmp3hh2ga59gtzsqrdsa7xm497faz3n6jgtlfzl3knkjuae0jq9z4f6as904qf70kcv722u6aj3tg23pnsjqd7sdzl`
 
 Algorand:
-MY6MWKFW2EMT5MPKCLTCX5LLIMDOZVVGLD42LTXGTCQ3LRZF74HY72WFTA
+`MY6MWKFW2EMT5MPKCLTCX5LLIMDOZVVGLD42LTXGTCQ3LRZF74HY72WFTA`
 
 Tezoz:
-tz1XaSmybQP78dDGThhtG3T6gNfsEYQ9yzq7
+`tz1XaSmybQP78dDGThhtG3T6gNfsEYQ9yzq7`
 
 IOTA:
-iota1qrzu6a5u8y8zw930enwjfmrqmkcqy6t8ng96r560v2rxdx8ed8q4j8a9a2e
+`iota1qrzu6a5u8y8zw930enwjfmrqmkcqy6t8ng96r560v2rxdx8ed8q4j8a9a2e`
 
 Dogecoin:
-DKpkste2H3mC8vVpZ3WKW71RLN8AVmmpwX
+`DKpkste2H3mC8vVpZ3WKW71RLN8AVmmpwX`
 
 All wallets support tokens and NFTs (if the blockchain itself supports it)
 
