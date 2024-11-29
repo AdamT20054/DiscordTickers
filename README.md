@@ -38,7 +38,7 @@ We will never require you to donate, all money goes towards the cost of hosting 
 
 ## Built With
 
-Built with Discord.js V13, soon to be migrated over to Discord.py
+Built with Discord.js V13, price data is fetched from our local price database which aggrigates data from Coingecko and Kraken.
 
 ## Getting Started
 
