@@ -23,7 +23,7 @@
 ## Disclaimer:
 These bots are free to use in your Discord server! Keep your server up to date with the latest cryptocurrency prices and other relevant data! We do offer a premium version and private versions for those who want to support our services, you can learn more below!
 
-## Donate
+## Donate or Sponsor!
 
 If you wish to donate to help support us and our services, we accept (most) cryptocurrencies and we have a Patreon and KoFi ( You can contact me if you wish to donate with another method). To show our appreciation to those who help us out, we offer perks for our bots such as:
 - Reduced update times
@@ -36,6 +36,18 @@ You can find our donation methods [here](https://github.com/AdamT20054/DiscordTi
 
 We will never require you to donate, all money goes towards the cost of hosting and we love you regardless <3
 
+### Sponsors:
+We do accept sponsors for our bots, we allow sponsorships in the following:
+- The BIO of a specific bot
+- The rotating status of a specific bot
+- A command
+
+We do not, and never will, allow sponsorships in:
+- Our nickname
+- Any way that may be percieved as "invasive"
+- 
+Who have moral guidelines for who we will/wont sponsor, you can request a review of any sponsor at any time if you believe we're sponsoring a bad individual/company.
+
 ## Built With
 
 Built with Discord.js V13, price data is fetched from our local price database which aggrigates data from Coingecko and Kraken.
@@ -45,7 +57,7 @@ Built with Discord.js V13, price data is fetched from our local price database w
 To invite a bot to your server, simply find the currencies you want and click the invite link. The bot should then join your server!
 
 
-## Invite bots:
+# Invite bots:
 
 ### Bitcoin
 
@@ -59,13 +71,38 @@ https://discord.com/api/oauth2/authorize?client_id=814626882569633792&permission
 
 https://discord.com/api/oauth2/authorize?client_id=905936051099566090&permissions=2617330689&scope=bot
 
+### Cardano
+
+https://discord.com/api/oauth2/authorize?client_id=847222619052048414&permissions=2617330689&scope=bot
+
+### Litecoin
+
+https://discord.com/api/oauth2/authorize?client_id=846878101354053664&permissions=2617330689&scope=bot
+
 ### BinanceCoin
 
 https://discord.com/api/oauth2/authorize?client_id=846875685464702976&permissions=2617330689&scope=bot
 
-### Cardano
+### Dgecoin
 
-https://discord.com/api/oauth2/authorize?client_id=847222619052048414&permissions=2617330689&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=846888639391858698&permissions=2617330689&scope=bot
+
+### Monero
+
+https://discord.com/api/oauth2/authorize?client_id=852288591291875348&permissions=2617330689&scope=bot
+
+### VyFinance
+
+https://discord.com/api/oauth2/authorize?client_id=860215258241040425&permissions=2617330689&scope=bot
+
+### Snek
+
+https://discord.com/api/oauth2/authorize?client_id=1116125168536928326&permissions=2617330689&scope=bot
+
+### Baby Snek
+
+https://discord.com/api/oauth2/authorize?client_id=1206940784192917588&permissions=2617330689&scope=bot
+
 
 ## Common issues
 
