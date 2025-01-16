@@ -37,6 +37,7 @@ You can find our donation methods [here](https://github.com/AdamT20054/DiscordTi
 We will never require you to donate, all money goes towards the cost of hosting and we love you regardless <3
 
 ### Sponsors:
+Sponsorships are priced on a per bot basis depending on what you'd like. To get a price, contact Adam20054 on Discord through our support server.
 We do accept sponsors for our bots, we allow sponsorships in the following:
 - The BIO of a specific bot
 - The rotating status of a specific bot
@@ -45,7 +46,7 @@ We do accept sponsors for our bots, we allow sponsorships in the following:
 We do not, and never will, allow sponsorships in:
 - Our nickname
 - Any way that may be percieved as "invasive"
-- 
+  
 Who have moral guidelines for who we will/wont sponsor, you can request a review of any sponsor at any time if you believe we're sponsoring a bad individual/company.
 
 ## Built With
