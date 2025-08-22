@@ -19,12 +19,13 @@
     <br/>
   </p>
 </p>
-
+--
+In Jan 2026, we celebrate the Tickers turning 5 years old! 5 years of (nearly) 100% uptime for our **10 million** users <3
+--
+  
 ## Disclaimer:
 These bots are free to use in your Discord server! Keep your server up to date with the latest cryptocurrency prices and other relevant data! We do offer a premium version and private versions for those who want to support our services, you can learn more below!
--------
-## Update August 2025
-The tickers are still beinng hosted :)
+
 
 ## Donate or Sponsor!
 
