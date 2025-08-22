@@ -1,7 +1,10 @@
 <br/>
 <p align="center">
   <h3 align="center">Discord Crypto Tickers</h3>
-
+-------
+  ## Update August 2025
+  The Tickers are still being hosted :)
+-------
   <p align="center">
     A repository of crypto tickers for Discord servers.
     <br/>
