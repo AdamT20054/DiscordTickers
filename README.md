@@ -1,10 +1,7 @@
 <br/>
 <p align="center">
   <h3 align="center">Discord Crypto Tickers</h3>
--------
-  ## Update August 2025
-  The Tickers are still being hosted :)
--------
+
   <p align="center">
     A repository of crypto tickers for Discord servers.
     <br/>
@@ -25,7 +22,10 @@
 
 ## Disclaimer:
 These bots are free to use in your Discord server! Keep your server up to date with the latest cryptocurrency prices and other relevant data! We do offer a premium version and private versions for those who want to support our services, you can learn more below!
-
+-------
+  ## Update August 2025
+  The Tickers are still being hosted :)
+-------
 ## Donate or Sponsor!
 
 If you wish to donate to help support us and our services, we accept (most) cryptocurrencies and we have a Patreon and KoFi ( You can contact me if you wish to donate with another method). To show our appreciation to those who help us out, we offer perks for our bots such as:
